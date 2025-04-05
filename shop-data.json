@@ -1,0 +1,19 @@
+{
+  "location": "Neverwinter",
+  "items": [
+    {
+      "name": "Health Potion",
+      "quantity": 5,
+      "price": 50,
+      "weight": 0.5,
+      "desc": "Restores 2d4 + 2 HP."
+    },
+    {
+      "name": "Iron Sword",
+      "quantity": 2,
+      "price": 100,
+      "weight": 3,
+      "desc": "A sturdy iron sword."
+    }
+  ]
+}
